@@ -1,5 +1,7 @@
 # Fractal Explorer
 
+This was done as part of a University assignment.
+
 ### INSTRUCTIONS
 
 	1. Clicking on the main panel (containing the Mandelbrot set/Burning Ship fractal) causes the Julia set to be freezed in place until the user clicks again on the main panel.
