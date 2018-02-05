@@ -1,6 +1,6 @@
 # Fractal Explorer
 
-This was done as part of a University assignment.
+Note: this was done as part of a University assignment.
 
 ### INSTRUCTIONS
 
